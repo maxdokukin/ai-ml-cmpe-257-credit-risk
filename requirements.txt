@@ -1,0 +1,6 @@
+# pin your deps here (example)
+jupyter
+numpy
+pandas
+scikit-learn
+matplotlib
