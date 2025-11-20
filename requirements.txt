@@ -1,4 +1,3 @@
-# pin your deps here (example)
 jupyter
 numpy
 pandas
