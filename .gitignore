@@ -1,3 +1,5 @@
 data/*.zip
 *.html
 temp
+data/processed/FICO_cleaned.csv
+data/processed/FICO_reduced.csv
