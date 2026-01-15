@@ -5,3 +5,4 @@ data/processed/FICO_cleaned.csv
 data/processed/FICO_reduced.csv
 .DS_Store
 .idea/
+.venv/
